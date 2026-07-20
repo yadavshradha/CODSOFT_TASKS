@@ -25,8 +25,4 @@ I developed this project to improve my understanding of Python programming and l
 3. Open the project folder.
 4. Run the following command:
 
-## Developer
-Shradha Yadav
 
-## Internship
-CodSoft Python Programming Internship
