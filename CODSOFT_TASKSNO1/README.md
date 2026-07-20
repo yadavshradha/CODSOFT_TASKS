@@ -18,6 +18,13 @@ This project was created during my CodSoft Python Programming Internship. It is 
 ## Why I Built This Project
 I developed this project to improve my understanding of Python programming and learn how to create desktop applications using Tkinter. It also helped me practice file handling and organizing data in a simple way.
 
+## How to Run the Project
+
+1. Install Python on your system.
+2. Download or clone this project.
+3. Open the project folder.
+4. Run the following command:
+
 ## Developer
 Shradha Yadav
 
